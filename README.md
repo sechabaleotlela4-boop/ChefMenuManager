@@ -24,7 +24,7 @@ A React Native mobile app for chefs to manage their restaurant menu.
 4. Scan the QR code with Expo Go.
 
 ## Video Demonstration
-[Insert your YouTube link here]
+https://youtu.be/N4cRwQQLgDw?si=Yd-qtYao8ClXuwRM
 
 ## Change Log (Part 2 → Final PoE)
 ### Part 2 (First Submission)
