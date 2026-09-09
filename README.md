@@ -1,4 +1,4 @@
-# 👨‍🍳 Chef's Menu Manager
+# Chef's Menu Manager
 
 A React Native mobile app for chefs to manage their restaurant menu.
 
