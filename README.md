@@ -3,15 +3,13 @@
 A React Native mobile app for chefs to manage their restaurant menu.
 
 ## Features
-- ✅ Add new dishes (Name, Description, Course, Price, Image URL)
-- ✅ View all dishes in a beautiful card layout
-- ✅ Search dishes by name
-- ✅ Filter dishes by course (Starter, Main Course, Dessert)
-- ✅ Mark dishes as Available/Unavailable
-- ✅ View only Available dishes in the Available tab
-- ✅ Menu statistics (total dishes, average price, course breakdown)
-- ✅ Persistent storage (data saves forever on your device)
-- ✅ Custom images (auto-generated or your own URL)
+- Add new dishes (Name, Description, Course, Price, Image URL)
+- View all dishes in a beautiful card layout
+- Search dishes by name
+- Filter dishes by course (Starter, Main Course, Dessert)
+- Mark dishes as Available/Unavailable
+- View only Available dishes in the Available tab
+- Menu statistics (total dishes, average price, course breakdown)
 
 ## Technologies Used
 - React Native
